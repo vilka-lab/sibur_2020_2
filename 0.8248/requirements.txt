@@ -1,0 +1,9 @@
+catboost==0.24.3
+strsimpy==0.1.9
+tqdm==4.51.0
+pandas==1.0.5
+numpy==1.19.4
+china_cities==0.0.3
+pycountry==20.7.3
+cyrtranslit==0.4
+scikit_learn==0.24.1

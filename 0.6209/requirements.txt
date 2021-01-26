@@ -1,0 +1,12 @@
+pycountry==20.7.3
+cyrtranslit==0.4
+pyod==0.8.4
+numpy==1.19.4
+scipy==1.5.0
+tqdm==4.51.0
+pandas==1.0.5
+networkx==2.4
+catboost==0.24.3
+strsimpy==0.1.9
+seaborn==0.10.1
+scikit_learn==0.24.1
